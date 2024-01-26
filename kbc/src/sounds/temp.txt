@@ -1,0 +1,2 @@
+MySQL DB Name	           MySQL User Name	MySQL Password	  MySQL  Host Name	PHPMyAdmin
+if0_35838739_bolgwebsite	if0_35838739	wXf7xIDBPlJ0d	  sql105.infinityfree.com	
